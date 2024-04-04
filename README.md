@@ -32,7 +32,7 @@ I will be creating a virtual machine in Azure. Then establishing a VPN connectio
 - Access https://whatismyipaddress.com/ and record the new IP address.
 - Test browsing to Google, and/or Disney to observe potential differences based on the VPN server's location.
 
-4.Clean up Azure resources:
+4. Clean up Azure resources:
 
 - Delete the Resource Group created earlier.
 - Ensure all associated resources within the Resource Group are deleted.
